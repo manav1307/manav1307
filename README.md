@@ -2,7 +2,13 @@
 #### programmer and student
 I'm Manav from India, and I am learning how to code in back-end development.I really enjoy learning new technologies like react, c, c++ etc
 
-Skills: REACT / JS / HTML / CSS/ C
+
+
+##Skills And Experience
+.react
+.c 
+.javascript
+.html/ css
 
 - 🔭 I’m currently working on personal portfolio website 
 - 🌱 I’m currently learning Data structures and algorithms 
